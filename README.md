@@ -87,3 +87,4 @@ Open http://localhost:8000 in browser, use email `admin@mail.com` and password `
 
 `Laravel Online Shop` is licensed under [The MIT license (MIT)](https://electro-paradizo.mit-license.org/).
 "# laravel-internet-shop" 
+"# laravel-internet-shop" 
